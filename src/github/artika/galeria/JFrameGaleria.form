@@ -156,9 +156,9 @@
                       <EmptySpace max="32767" attributes="0"/>
                       <Component id="jScrollPaneCarpeta" min="-2" pref="268" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jSplitPaneBotones" min="-2" pref="865" max="-2" attributes="0"/>
-                          <Component id="jLabelImagen" min="-2" pref="618" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jSplitPaneBotones" pref="865" max="32767" attributes="0"/>
+                          <Component id="jLabelImagen" pref="0" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
                   </Group>
@@ -168,9 +168,9 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="1" attributes="0">
                       <EmptySpace max="32767" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jScrollPaneCarpeta" min="-2" pref="576" max="-2" attributes="0"/>
-                          <Component id="jLabelImagen" min="-2" pref="334" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jScrollPaneCarpeta" pref="576" max="32767" attributes="0"/>
+                          <Component id="jLabelImagen" pref="0" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                       <Component id="jSplitPaneBotones" min="-2" pref="50" max="-2" attributes="0"/>
